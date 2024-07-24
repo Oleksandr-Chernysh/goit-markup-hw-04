@@ -175,6 +175,10 @@ nav ul li {
     justify-content: space-between;
 }
 
+.idontknow-head:first-child{
+    color:#404bbf
+}
+
 .idontknow-head, .adres ul, header nav{
     display: flex;
 }
